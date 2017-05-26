@@ -2,10 +2,11 @@
 
 Our application for a Collaborative Research Center on Wnt signaling has been funded by the German Research Foundation (DFG).
 
-DFG press announcement [http://www.dfg.de/service/presse/pressemitteilungen/2017/pressemitteilung_nr_16/index.html]
-Heidelberg University press announcment [http://www.uni-heidelberg.de/presse/news2017/pm20170526_new-collaborative-research-center-on-a-fundamental-signaling-pathway-in-development-and-disease.html]
+DFG press announcement http://www.dfg.de/service/presse/pressemitteilungen/2017/pressemitteilung_nr_16/index.html
+Heidelberg University press announcment http://www.uni-heidelberg.de/presse/news2017/pm20170526_new-collaborative-research-center-on-a-fundamental-signaling-pathway-in-development-and-disease.html
 
 More information coming soon ...
+  
 (img)
 
 ### Markdown
