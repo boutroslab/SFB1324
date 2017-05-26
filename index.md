@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to the SFB1324 website
 
-You can use the [editor on GitHub](https://github.com/boutroslab/SFB1324/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Our application for a Collaborative Research Center on Wnt signaling has been funded by the German Research Foundation (DFG).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+DFG press announcement [http://www.dfg.de/service/presse/pressemitteilungen/2017/pressemitteilung_nr_16/index.html]
+Heidelberg University press announcment [http://www.uni-heidelberg.de/presse/news2017/pm20170526_new-collaborative-research-center-on-a-fundamental-signaling-pathway-in-development-and-disease.html]
+
+More information coming soon ...
+(img)
 
 ### Markdown
 
